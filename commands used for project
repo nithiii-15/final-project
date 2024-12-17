@@ -1,0 +1,51 @@
+
+ cd ecommerce
+  226  cd ecommerce_app
+  227  cd logs_backup/
+  228  ls
+  229  cd ecommerce_app/
+  230  ls
+  231  touch config.txt
+  232  ls
+  233  ls -all
+  234  chmod 700 config.txt 
+  235  ls -all
+  236  cp /config.txt /logs_backup/
+  237  cp config.txt /logs_backup/
+  238  cp ./config.txt ./logs_backup/
+  239  cd ..
+  240  cp ./config.txt ./logs_backup/
+  241  mv /home/administrator/cloud_computing_project_essentials/config.txt/  /home/administrator/cloud_computing_project_essentials/logs_backup/
+  242  mv /home/administrator/cloud_computing_project_essentials/ecommerce_app/config.txt/  /home/administrator/cloud_computing_project_essentials/logs_backup/
+  243  cd logs_backup
+  244  ls
+  245  mv config.txt logs_backup
+  246  mv /home/administrator/cloud_computing_project_essentials/ecommerce_app/config.txt/  /home/administrator/cloud_computing_project_essentials/logs_backup/
+  247  cd ..
+  248  mv /home/administrator/cloud_computing_project_essentials/ecommerce_app/config.txt/  /home/administrator/cloud_computing_project_essentials/logs_backup/
+  249  pwd
+  250  mv /home/administrator/cloud_computing_project_essentials/logs_backup/ecommerce_app/config.txt /home/administrator/cloud_computing_project_essentials/logs_backup/
+  251  cd logs_backup/
+  252  ls
+  253  cd ecommerce_app/
+  254  ls
+  255  rmdir January/
+  256  rm -rf January/
+  257  ls
+  258  cd ..
+  259  ls
+  260  cd ..
+  261  ls
+  262  mkdir sales_data
+  263  touch filesgeneration.sh
+  264  nano filesgeneration.sh 
+  265  ./filesgeneration.sh
+  266  chmod 777 filesgeneration.sh 
+  267  ./filesgeneration.sh 
+  268  histroy
+  269  history
+  270  history -20
+  271  cd cloud_computing_project_essentials/
+  272  ls
+  273  cd logs_backup/
+  274  history
